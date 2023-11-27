@@ -1,5 +1,7 @@
 TITLE: Solar System Animation Documentation
+
 VIDEO DEMO: https://youtu.be/PkAjvFl0syA
+
 DESCRIPTION: The Solar System Animation project stands as a captivating representation of celestial bodies, meticulously crafted using the dynamic duo of HTML and CSS.
 This animated showcase portrays the sun, Earth, and its moon, dynamically illustrating their positions and orbital ballet in the vast expanse of space.
 This documentation offers an extensive exploration of the project's architecture, design rationales, and comprehensive usage guidelines.
